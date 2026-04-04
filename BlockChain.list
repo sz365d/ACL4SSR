@@ -1,9 +1,32 @@
 # Crypto
 # BlockChain Surge Rule List
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.cloud
+
+# OKX
 DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
+
+# binance
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
+
+# bybit.com
+DOMAIN-SUFFIX,bybit.com
+
+# gate.com
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
+
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx-doh.com
 DOMAIN-SUFFIX,okx.ac
@@ -27,7 +50,6 @@ DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,qkl123.com
 DOMAIN-SUFFIX,tradingview.com
-DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,feixiaohao.co
 DOMAIN-SUFFIX,feixiaoquan.com
 DOMAIN-SUFFIX,fxhapp.com
