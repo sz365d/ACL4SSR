@@ -1,9 +1,9 @@
-  # ==========================================
-  # ✅ 银行 / 支付 / 政务优先直连
-  # 必须保持在所有代理规则之前，避免登录、验证、支付、政务办事误走代理
-  # ==========================================
+# ==========================================
+# ✅ 银行 / 支付 / 政务优先直连
+# 必须保持在所有代理规则之前，避免登录、验证、支付、政务办事误走代理
+# ==========================================
 
-  # 银行登录修复：风控安全 SDK（必须直连，否则银行 APP 登录验证可能失败）
+# 银行登录修复：风控安全 SDK（必须直连，否则银行 APP 登录验证可能失败）
 DOMAIN-SUFFIX,tongdun.net
 DOMAIN-SUFFIX,tongduncdn.com
 DOMAIN-SUFFIX,ishumei.com
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,aegis.qq.com
 DOMAIN-SUFFIX,antpay.com
 DOMAIN-SUFFIX,rong360.com
 
-  # ✅ 银行APP推送/统计服务（不直连会导致部分银行APP无法收到验证码推送）
+# ✅ 银行APP推送/统计服务（不直连会导致部分银行APP无法收到验证码推送）
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jpush.io
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,rongcloud.cn
 DOMAIN-SUFFIX,rongcloud.com
 
-  # 国内银行域名
+# 国内银行域名
 DOMAIN-KEYWORD,bank
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,unionpay.com
@@ -61,7 +61,7 @@ DOMAIN-SUFFIX,bocsh.com
 DOMAIN-SUFFIX,srcb.com.cn
 DOMAIN-SUFFIX,gdb.com.cn
 
-  # 支付宝 / 微信支付
+# 支付宝 / 微信支付
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alipayhk.com
@@ -78,7 +78,7 @@ DOMAIN-SUFFIX,wechatpay.cn
 DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,weixinbridge.com
 
-  # 政务 / 公共服务
+# 政务 / 公共服务
 DOMAIN-SUFFIX,12315.cn
 DOMAIN-SUFFIX,12315.gov.cn
 DOMAIN-SUFFIX,gov.cn
@@ -88,7 +88,7 @@ DOMAIN-KEYWORD,12306
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,govapp.cn
 
-  # --- 运营商 ---
+# --- 电信运营商 ---
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,189.cn
