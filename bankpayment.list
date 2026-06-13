@@ -78,11 +78,6 @@ DOMAIN-SUFFIX,wechatpay.cn
 DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,weixinbridge.com
 
-  # --- 小红书 ---
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,xiaohongshu.net
-DOMAIN-SUFFIX,xhscdn.com
-
   # 政务 / 公共服务
 DOMAIN-SUFFIX,12315.cn
 DOMAIN-SUFFIX,12315.gov.cn
